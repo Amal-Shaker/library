@@ -1,5 +1,5 @@
 <h1>library app by laravel framework</h1>
-<p>This app is dashboard for library<br>show all book with all information<br>edit book info<br>delete book<br>Add new book<br>Search about book</p>
+<p>This app is dashboard for library [book, author, ..]<br>show all book with all information<br>edit book info<br>delete book<br>Add new book<br>Search about book<br> And more ....</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
